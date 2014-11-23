@@ -1,7 +1,8 @@
 [
   {
-    "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
+   "repository": "RobbieL811/cm_device_oppo_common",
+   "target_path": "device/oppo/common",
+   "branch":      "cm-12.0"
   },
   {
    "repository":  "anarkia1976/AK-OnePone",
