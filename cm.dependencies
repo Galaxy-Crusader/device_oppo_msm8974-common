@@ -7,6 +7,6 @@
   {
    "repository":  "anarkia1976/AK-OnePone",
    "target_path": "kernel/oneplus/AK-OnePone",
-   "branch":      "cm-12.0-skull-evo"
+   "branch":      "cm-12.0-msm_mpdecision"
   }
 ]
