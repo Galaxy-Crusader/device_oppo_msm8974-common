@@ -7,6 +7,6 @@
   {
    "repository":  "anarkia1976/AK-OnePone",
    "target_path": "kernel/oneplus/AK-OnePone",
-   "branch":      "cm-12.0-skull-evo-no_lcd_notifier-msm_bricked"
+   "branch":      "cm-12.0-skull-evo-official"
   }
 ]
