@@ -5,7 +5,7 @@
    "branch":      "cm-12.0"
   },
   {
-   "repository":  "anarkia1976/AK-OnePone",
+   "repository":  "AK-Kernel/AK-OnePone",
    "target_path": "kernel/oneplus/AK-OnePone",
    "branch":      "cm-12.0-skull-evo-official"
   }
