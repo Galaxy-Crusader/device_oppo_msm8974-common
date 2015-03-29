@@ -50,7 +50,7 @@ TARGET_KERNEL_SOURCE := kernel/oneplus/AK-OnePone
 TARGET_KERNEL_ARCH := arm
 
 # Enable DIAG on debug builds
-ifneq ($(TARGET_BUILD_TYPE),user)
+ifneq ($(TARGET_BUILD_VARIANT),user)
 TARGET_KERNEL_ADDITIONAL_CONFIG:= cyanogenmod_debug_config
 endif
 
