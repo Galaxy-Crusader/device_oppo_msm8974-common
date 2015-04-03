@@ -1,8 +1,8 @@
 [
   {
-   "repository": "RobbieL811/device_oppo_common",
+   "repository": "SabermodCM/device_oppo_common",
    "target_path": "device/oppo/common",
-   "branch":      "staging/cm-12.1"
+   "branch":      "cm-12.1"
   },
   {
    "repository":  "AK-Kernel/AK-OnePone",
