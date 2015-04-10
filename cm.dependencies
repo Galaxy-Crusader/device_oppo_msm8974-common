@@ -5,7 +5,7 @@
    "branch":      "cm-12.1"
   },
   {
-   "repository":  "AK-Kernel/AK-OnePone",
+   "repository":  "UberCM/AK-OnePone",
    "target_path": "kernel/oneplus/AK-OnePone",
    "branch":      "ak-12.1-official"
   }
